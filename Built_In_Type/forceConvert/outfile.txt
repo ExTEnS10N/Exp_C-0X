@@ -1,0 +1,5 @@
+a(bool -42) = 1
+c(bool 42) = 1
+e(char -1) = -1
+d(unsigned char -1) = 255
+o(unsigned int -1) = 4294967295

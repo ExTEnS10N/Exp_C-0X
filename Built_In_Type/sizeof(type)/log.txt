@@ -1,0 +1,13 @@
+g++ gcc 4.8.2
+sizeof(int)->4
+sizeof(short)->2
+sizeof(long)->8
+sizeof(long long)->8
+sizeof(float)->4
+sizeof(double)->8
+sizeof(long double)->16
+sizeof(char)->1
+sizeof(wchar_t)->4
+sizeof(char16_t)->2
+sizeof(char32_t)->4
+sizeof(bool)->1
